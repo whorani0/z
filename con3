@@ -4,34 +4,29 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-DB44ZM599W"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-DB44ZM599W');
-    </script>
+    
+    
+    
 
     
         
                                     
-<meta property="og:site_name" content="زين كاش">
-<title>زين كاش العراق - خدمات مالية الكترونية لتسهيل حياتك وأعمالك</title>
-<meta property="og:title" content="زين كاش العراق - خدمات مالية الكترونية لتسهيل حياتك وأعمالك">
-<meta property="twitter:title" content="زين كاش العراق - خدمات مالية الكترونية لتسهيل حياتك وأعمالك">
-<meta itemprop="name" content="زين كاش العراق - خدمات مالية الكترونية لتسهيل حياتك وأعمالك">
+
+
+
+
+
 <meta name="description" content="زين كاش - خدمات مالية الكترونية لتسهيل حياتك وأعمالك">
 <meta itemprop="description" content="زين كاش - خدمات مالية الكترونية لتسهيل حياتك وأعمالك">
 <meta name="twitter:description" content="زين كاش - خدمات مالية الكترونية لتسهيل حياتك وأعمالك">
 <meta name="og:description" content="زين كاش - خدمات مالية الكترونية لتسهيل حياتك وأعمالك">
-<meta name="keywords" content="زين كاش">
-<meta name="robots" content="INDEX, FOLLOW">
-<meta property="og:type" content="website">
-<meta property="og:type" content="website">
-<link rel="canonical" href="https://www.zaincash.iq/ar">
-<meta property="og:url" content="https://www.zaincash.iq/ar">
-<meta property="twitter:url" content="https://www.zaincash.iq/ar">
+
+
+
+
+
+
+
                 
 
     <link href="https://www.zaincash.iq/assets/fonts.css?v=0.0.0.56" rel="preload" as="style">
@@ -39,158 +34,23 @@
             <link href="https://www.zaincash.iq/assets/home.css?v=0.0.0.56" rel="stylesheet">
         <link href="https://www.zaincash.iq/assets/icons.css?v=0.0.0.56" rel="stylesheet">
 
-    <script>
-	var application = {};
-	application._debug =  false ;
-	application.languages = {"ar":{"name":"\u0627\u0644\u0639\u0631\u0628\u064a\u0629","short":"\u0639","dir":"rtl","class":"rtl","active":true},"ku":{"name":"\u0643\u0648\u0631\u062f\u0649","short":"ku","dir":"rtl","class":"","active":false},"en":{"name":"English","short":"En","dir":"ltr","class":"","active":false}};
-	application.language = "ar";
-	application.url = "https://www.zaincash.iq/";
-	application.requestToken = {"RmJSNFVScEkxNzllSmUrUERjcEZsdz09":"aUR1cDBrYkM5MWtNZzBPajdJME9IZz09"};
-	application.requestToken.key = "RmJSNFVScEkxNzllSmUrUERjcEZsdz09";
-	application.requestToken.value = "aUR1cDBrYkM5MWtNZzBPajdJME9IZz09";
-    application.fileUploadUrl = "https://www.zaincash.iq/ar/media/upload";
-	if(typeof application.translations === 'undefined'){
-        application.translations = {};
-    }
-    application.translations['admin'] = {
-	    auth: {
-            notification:{
-                load_more: "عرض المزيد",
-                no_notifications: "ليس لديك أية تنبيهات حتى الآن."
-            }
-        }
-    }
-</script>
+    
 
-            <script>
-        if (typeof application === 'undefined') {
-            var application = {};
-        }
-        if (typeof application.translations === 'undefined') {
-            application.translations = {};
-        }
-        if (typeof window.application.services === 'undefined') {
-            window.application.services = {};
-        }
-        window.application.services.gcaptcha = {
-            site_key: "6LcYUr8aAAAAABwYtwguCiqfP8GdL2N19if0JK3m",
-            language: "ar",
-        };
+            
 
-        window.application.translations.required_field = "هذا الحقل مطلوب!";
-        application.translations.no_markers = "لم يتم العثور على نتائج في هذه المنطقة!";
-        application.translations.popUpTitle = "رسالة";
-        application.translations.okPopUpBtnText = "موافق";
-
-        function netsparker(t = null) {
-            // console.log('Hi');
-        }
-    </script>
-
-    <link rel="icon" href="https://www.zaincash.iq/assets/images/logo.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://www.zaincash.iq/apple-touch-icon.png?v=1">
-    <link rel="icon" type="image/png" sizes="32x32" href="https://www.zaincash.iq/favicon-32x32.png?v=1">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://www.zaincash.iq/favicon-16x16.png?v=1">
-    <link rel="manifest" href="https://www.zaincash.iq/site.webmanifest?v=1">
-    <link rel="mask-icon" href="https://www.zaincash.iq/safari-pinned-tab.svg?v=1" color="#5bbad5">
+    
+    
+    
+    
+    
+    
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
 
 </head>
 <body>
 
-<header class="header" id="header">
-    <div id="sub-menu-mobile"></div>
-    <div class="container">
-        
-        <div class="main_header">
-                            <a href="https://www.zaincash.iq/ar" title="زين كاش" class="logo" id="logo">
-                    <img src="https://www.zaincash.iq/assets/images/logo.png" alt="زين كاش">
-                </a>
-                        <div id="sub-menu-desktop">
-                                    
-                            <ul class="sub-menu-list list" id="sub-menu">
-                        <li class="active">
-                            <a title="شخصي">
-                                شخصي                            </a>
-                        </li>
-                        <li class="">
-                            <a href="https://www.zaincash.iq/ar/business" title="أعمال">
-                                أعمال                            </a>
-                        </li>
-                    </ul></div>
-                        
-            <div class="menu-w">
-                <div id="languages-mobile"></div>
 
-                <div class="main-menu">
-                    <div class="splash"></div>
-                    <div class="main-menu-list-w">
-                        <div id="auth-menu-mobile"></div>
-                        
-    <ul class="main-menu-list list">                        <li>
-                <a href="https://www.zaincash.iq/ar/accounts" title="الحسابات" class="has_dropDown">
-                    الحسابات                                            <i class="icon-arrow-down"></i>
-                                    </a>
-                                        <ul class="dropdown list">                        <li style="animation-delay: 0s;">
-                <a href="https://zaincash.iq/ar/accounts/zaincash-basic-wallet" title="محفظة زين كاش الاولية ">
-                    محفظة زين كاش الاولية                                     </a>
-                            </li>                        <li style="animation-delay: 0.3s;">
-                <a href="https://zaincash.iq/ar/accounts/zaincash-permanent-wallet" title="محفظة زين كاش الدائمية">
-                    محفظة زين كاش الدائمية                                    </a>
-                            </li>    </ul>                            </li>                        <li>
-                <a href="https://zaincash.iq/ar/features" title="المميزات" class="has_dropDown">
-                    المميزات                                            <i class="icon-arrow-down"></i>
-                                    </a>
-                                        <ul class="dropdown list">                        <li style="animation-delay: 0s;">
-                <a href="https://www.zaincash.iq/ar/features/wu.html" title="ويسترن يونيون Western Union">
-                    ويسترن يونيون Western Union                                    </a>
-                            </li>                        <li style="animation-delay: 0.3s;">
-                <a href="/ar/walletcard" title="والت كارد - ماستر كارد">
-                    والت كارد - ماستر كارد                                    </a>
-                            </li>                        <li style="animation-delay: 0.6s;">
-                <a href="https://zaincash.iq/ar/features/virtual-visa-card.html" title="بطاقة فيزا الإفتراضية ">
-                    بطاقة فيزا الإفتراضية                                     </a>
-                            </li>                        <li style="animation-delay: 0.9s;">
-                <a href="/ar/money-cash-in-cash-out" title="ايداع وسحب الاموال">
-                    ايداع وسحب الاموال                                    </a>
-                            </li>                        <li style="animation-delay: 1.2s;">
-                <a href="/ar/money-transfer" title="تحويل الاموال">
-                    تحويل الاموال                                    </a>
-                            </li>                        <li style="animation-delay: 1.5s;">
-                <a href="/ar/digital-goods" title="البطاقات الالكترونية">
-                    البطاقات الالكترونية                                    </a>
-                            </li>                        <li style="animation-delay: 1.8s;">
-                <a href="/ar/linking-bank-account" title="ربط المحفظة بالحساب المصرفي">
-                    ربط المحفظة بالحساب المصرفي                                    </a>
-                            </li>                        <li style="animation-delay: 2.1s;">
-                <a href="/ar/government-bill-payment" title="دفع الفواتير الحكومية">
-                    دفع الفواتير الحكومية                                    </a>
-                            </li>                        <li style="animation-delay: 2.4s;">
-                <a href="https://www.zaincash.iq/ar/features/mobile-recharge.html" title="تعبئة الرصيد">
-                    تعبئة الرصيد                                    </a>
-                            </li>                        <li style="animation-delay: 2.7s;">
-                <a href="/ar/merchant-payment" title="الدفع للتجار">
-                    الدفع للتجار                                    </a>
-                            </li>    </ul>                            </li>                        <li>
-                <a href="/ar/services-prices" title="الأسعار">
-                    الأسعار                                    </a>
-                            </li>                        <li>
-                <a href="https://www.zaincash.iq/ar/agents-locations" title="مواقعنا">
-                    مواقعنا                                    </a>
-                            </li>                        <li>
-                <a href="https://apply.workable.com/zaincash-1/?lng=en" title="وظائف">
-                    وظائف                                    </a>
-                            </li>                        <li>
-                <a href="https://zaincash.iq/ar/help" title="المساعدة">
-                    المساعدة                                    </a>
-                            </li>    </ul>                    </div>
-                    
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
 
 <div class="content">
     
